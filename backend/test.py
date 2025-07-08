@@ -1,14 +1,23 @@
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import json
 import numpy as np
 import pandas as pd
 import faiss
 from sentence_transformers import SentenceTransformer
-from typing import List
+from typing import List, Dict
 
 # === Setup FastAPI ===
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or ["http://localhost:5173"]
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # === Load and process data on startup ===
 with open("projects_by_team_nested.json", "r") as f:
@@ -58,22 +67,50 @@ class MatchResult(BaseModel):
     manager: str
 
 
-# === Search endpoint ===
-@app.get("/search", response_model=List[MatchResult])
-def search_projects(query: str = Query(..., description="Search query"), k: int = 5):
-    query_vec = model.encode([query])
-    D, I = index.search(np.array(query_vec), k)
+class TeamDetail(BaseModel):
+    team: str
+    team_info: Dict
+    projects: List[Dict]
 
+# === Search endpoint ===
+
+
+@app.get("/search", response_model=List[MatchResult])
+def search_projects(query: str = Query(..., description="Search query"), k: int = 20):
+    query_vec = model.encode([query])
+    D, I = index.search(np.array(query_vec), min(
+        k * 3, len(df)))  # search more to deduplicate
+
+    seen_teams = set()
     results = []
     for idx in I[0]:
         row = df.iloc[idx]
-        results.append(MatchResult(
-            team=row["team"],
-            project_title=row["project_title"],
-            description=row["description"],
-            skills=row["skills"],
-            engineer=row["engineer"],
-            mentor=row["mentor"],
-            manager=row["manager"],
-        ))
+        team = row["team"]
+        if team not in seen_teams:
+            results.append(MatchResult(
+                team=team,
+                project_title=row["project_title"],
+                description=row["description"],
+                skills=row["skills"],
+                engineer=row["engineer"],
+                mentor=row["mentor"],
+                manager=row["manager"],
+            ))
+            seen_teams.add(team)
+        if len(results) >= k:
+            break
     return results
+
+# === Team detail endpoint ===
+
+
+@app.get("/team/{team_name}", response_model=TeamDetail)
+def get_team_detail(team_name: str):
+    if team_name not in data:
+        raise HTTPException(status_code=404, detail="Team not found")
+    team_data = data[team_name]
+    return TeamDetail(
+        team=team_name,
+        team_info=team_data.get("team_info", {}),
+        projects=team_data.get("projects", [])
+    )
