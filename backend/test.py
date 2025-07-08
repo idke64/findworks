@@ -1,24 +1,51 @@
+import json
 import numpy as np
+import pandas as pd
 import faiss
+from sentence_transformers import SentenceTransformer
 
-d = 64                           # dimension
-nb = 100000                      # database size
-nq = 10000                       # nb of queries
-np.random.seed(1234)             # make reproducible
-xb = np.random.random((nb, d)).astype('float32')
-xb[:, 0] += np.arange(nb) / 1000.
-xq = np.random.random((nq, d)).astype('float32')
-xq[:, 0] += np.arange(nq) / 1000.
+# === Load and flatten your nested JSON ===
+with open("projects_by_team_nested.json", "r") as f:
+    data = json.load(f)
 
-index = faiss.IndexFlatL2(d)   # build the index
-print(index.is_trained)
-index.add(xb)                  # add vectors to the index
-print(index.ntotal)
+records = []
+for team_name, team_data in data.items():
+    team_info = team_data.get("team_info", {})
+    for project in team_data.get("projects", []):
+        record = {
+            "team": team_name,
+            "main_contact": team_info.get("Main contact", ""),
+            "description": team_info.get("Description of Team", ""),
+            "skills": team_info.get("Main skills used by this team", ""),
+            "project_title": project.get("Title", ""),
+            "engineer": project.get("EDG Engineer", ""),
+            "mentor": project.get("Project mentor", ""),
+            "manager": project.get("Project sponsor (Manager)", "")
+        }
+        records.append(record)
 
-k = 4                          # we want to see 4 nearest neighbors
-D, I = index.search(xb[:5], k) # sanity check
-print(I)
-print(D)
-D, I = index.search(xq, k)     # actual search
-print(I[:5])                   # neighbors of the 5 first queries
-print(I[-5:])                  # neighbors of the 5 last queries
+df = pd.DataFrame(records)
+
+# === Build text entries for embedding ===
+texts = df.apply(
+    lambda row: f"{row['team']} {row['project_title']} {row['description']} {row['skills']} {row['engineer']} {row['mentor']} {row['manager']}",
+    axis=1
+)
+
+# === Embed using sentence-transformers ===
+model = SentenceTransformer("all-MiniLM-L6-v2")
+vectors = model.encode(texts.tolist(), convert_to_numpy=True)
+
+# === Index in FAISS ===
+d = vectors.shape[1]
+index = faiss.IndexFlatL2(d)
+index.add(vectors)
+
+# === Run a sample query ===
+query = "mathworks simulation or matlab project"
+query_vec = model.encode([query])
+D, I = index.search(np.array(query_vec), k=5)
+
+# === Show top matches ===
+print("\nTop matches:\n")
+print(df.iloc[I[0]])
