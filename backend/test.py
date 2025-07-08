@@ -42,7 +42,7 @@ index = faiss.IndexFlatL2(d)
 index.add(vectors)
 
 # === Run a sample query ===
-query = "mathworks simulation or matlab project"
+query = "making backend in c++"
 query_vec = model.encode([query])
 D, I = index.search(np.array(query_vec), k=5)
 
