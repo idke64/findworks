@@ -1,4 +1,3 @@
-from __future__ import annotations
 from datetime import date
 from typing import List, Optional, Literal
 from uuid import UUID, uuid4
