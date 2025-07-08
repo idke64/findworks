@@ -5,9 +5,13 @@ html {
 }
 
 h1 {
-	@apply text-3xl font-bold;
+	@apply text-4xl font-bold;
 }
 
 h3 {
 	@apply text-lg font-bold;
+}
+
+.nav-link {
+	@apply rounded px-4 py-1 font-semibold text-neutral-700 duration-200 hover:cursor-pointer hover:bg-gray-100;
 }
