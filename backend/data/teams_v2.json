@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "919fbefb-0bf5-493a-a5ec-d57c1d6040a0",
+    "name": "MATLAB External Interfaces",
+    "info": {
+      "main_contact": "Fazil Peermohammed",
+      "description": null,
+      "skills": [
+        "C",
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "Python, .NET, HTTPS"
+      ],
+      "learning": [
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "Python, .NET, HTTPS"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "7d99bff7-062d-4219-9920-edf07d6bde26",
+        "title": "InterfaceLibraryPath support in clibConfiguration as NV argument",
+        "status": "Approved",
+        "edg_engineer": "Ronit Jain",
+        "sponsor": "Umar Basha",
+        "mentor": "Prashanth Nayanagari",
+        "edg_manager": "Pavan Kanago",
+        "start_date": "2025-07-07",
+        "expected_end": "2025-09-05",
+        "office_location": "IN - Bangalore",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "82cfbd52-d5e2-4f2d-95de-c5cdb462ddf5",
+    "name": "Language Analysis / Programming Aids / MCOS QE",
+    "info": {
+      "main_contact": "Kati Kline",
+      "description": "Work at the heart of the MATLAB language and on highly visible features to all MATLAB users!  \n\nWe support critical parts of the MATLAB language such as core performant data types (string, pattern, dictionary), parsing to IR, and MATLAB classes, as well as features that to make all MATLAB users' lives easier (Code Analyzer and programming aids like tab completion). ",
+      "skills": [
+        "MATLAB",
+        "MATLAB Classes",
+        "Test frameworks",
+        "Tool Development",
+        "Process Improvement",
+        "Program & Project Management",
+        "Code coverage",
+        "Performance testing",
+        "JavaScript",
+        "C++"
+      ],
+      "learning": [
+        "MATLAB",
+        "MATLAB Classes",
+        "C++",
+        "JavaScript"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "72d3daf9-d55f-4c46-984d-acb1fa31d4bf",
+        "title": "Performance Test Procedure for MCOS functions",
+        "status": "Planning",
+        "edg_engineer": "Catherine Pan",
+        "sponsor": "Kati Kline",
+        "mentor": "Milind Ranade",
+        "edg_manager": "Jason Jumper",
+        "start_date": "2025-07-02",
+        "expected_end": "2025-07-17",
+        "office_location": "US - Natick",
+        "department": "QE",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "71adda80-aff7-4091-8f75-9a7aa4ba0fc5",
+    "name": "Simulink Simulation",
+    "info": {
+      "main_contact": "Alex Trubitsyn",
+      "description": "Simulink Simulation team is responsible for the main entry points into simulation (sim command, play button, simulation stepper) and the infrastructure to advance simulation while supporting the various runtime features in Simulink. The team is currently focusing on two big projects: creating a framework for distributed simulations (using cloud services) and revamping the Simulink debugging workflows.\n\nThe team is also responsible for the core Simulink workflows of input data loading, including inter-process communication, and simulation state save/restore.\n\nThis team's work involves design considerations affecting the entire Simulink platform. \nExplore projects with us if you are interested in broad-impact features, software architecture, and/or cloud technologies.",
+      "skills": [
+        "C++",
+        "MATLAB",
+        "Simulink"
+      ],
+      "learning": [
+        "C++",
+        "Program & Project Management",
+        "Simulink"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "eb630514-3b19-452e-b428-23f9846d84ea",
+        "title": "Continue the Category CI project and Use Example Manager to Resolve a Geck",
+        "status": "Planning",
+        "edg_engineer": "Lauren Melcher",
+        "sponsor": "Sarah Blagdon",
+        "mentor": "Chinmayi Deshpande",
+        "edg_manager": "Jason Jumper",
+        "start_date": "2025-07-14",
+        "expected_end": "2025-07-25",
+        "office_location": "US - Natick",
+        "department": "Doc",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "6170717e-2053-4bb9-a276-9d379bbad116",
+    "name": "CGIR",
+    "info": {
+      "main_contact": "Dale Martin;David Serr;Balaji Elangovan",
+      "description": "We develop and maintain the code generation technology leveraged by DA Coder products (MATLAB Coder, Embedded Coder, GPU Coder, Simulink Accelerator, Simulink Design Verifier, Stateflow, etc.)",
+      "skills": [
+        "Compiler Development",
+        "C++",
+        "Test Driven Development"
+      ],
+      "learning": [
+        "C++, Test Driven Development, Compilers, Code Generation",
+        "GPU Coder",
+        "HDL Coder",
+        "MATLAB Coder",
+        "Simulink Coder",
+        "Simulink PLC Coder",
+        "Stateflow",
+        "Embedded Coder"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "43aaf37f-43b9-4a10-8aa3-7d107fb49985",
+        "title": "LLVM/MLIR Ramp-Up: TableGen Markdown & C++ Backend",
+        "status": "In-Progress",
+        "edg_engineer": "Rachel Han",
+        "sponsor": "Akshatha Bhat",
+        "mentor": "Ryan Holt",
+        "edg_manager": "Jason Jumper",
+        "start_date": "2025-06-23",
+        "expected_end": "2025-06-30",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "908a2918-d94d-4daa-adfe-36b5f8e8e8b2",
+    "name": "Optimization",
+    "info": {
+      "main_contact": "Steve Grikschat",
+      "description": null,
+      "skills": [
+        "C++",
+        "MATLAB",
+        "MATLAB Classes"
+      ],
+      "learning": [
+        "C++",
+        "MATLAB",
+        "MATLAB Classes",
+        "Global Optimization Toolbox",
+        "Optimization Toolbox"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "393fdf61-13c1-4252-9633-65414de595c8",
+        "title": "Iterative Data Refactor for fminunc",
+        "status": "Planning",
+        "edg_engineer": "Renan Lima Thomes",
+        "sponsor": "Steve Grikschat",
+        "mentor": "Sean Driscoll",
+        "edg_manager": "Paul Wildman",
+        "start_date": "2025-06-23",
+        "expected_end": "2025-08-01",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "548992e3-f1f3-4b41-9ebf-634e5442ed1c",
+    "name": "MATLAB Doc Team",
+    "info": {
+      "main_contact": "Claudette Fowler",
+      "description": "MATLAB writers work closely with development teams in core MATLAB to create goal-oriented content for users and participate in product design reviews. ",
+      "skills": [
+        "MATLAB",
+        "Communication skills"
+      ],
+      "learning": [
+        "Design reviews",
+        "Doc requirements",
+        "Doc metrics"
+      ],
+      "department": "Documentation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "81250f05-3dc5-4452-8550-c56c85c80566",
+        "title": "Moving Annotation Propeties to Object templates",
+        "status": "In-Progress",
+        "edg_engineer": "Nina De La Torre",
+        "sponsor": "Claudette Fowler",
+        "mentor": "Jennifer Rebbin",
+        "edg_manager": "Jason Jumper",
+        "start_date": "2025-06-16",
+        "expected_end": "2025-07-07",
+        "office_location": "US - Natick",
+        "department": "Doc",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "f5d04fd4-8f10-4dc7-835c-d6051157d1c9",
+    "name": "MATLAB Editor Core and Ecosystem",
+    "info": {
+      "main_contact": "Hamid Farshi",
+      "description": "We provide a world-class MATLAB code and text editing experience for all types of users for all types of coding workflows \u2013 scripting, notebook authoring, and software development \u2013 in a single Editor with reusable components inside and outside of MATLAB.",
+      "skills": [
+        "C++",
+        "JavaScript",
+        "MATLAB"
+      ],
+      "learning": [
+        "C++",
+        "JavaScript",
+        "MATLAB"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "870e6039-444d-4825-a786-9f632e78310d",
+        "title": "Allow \"edit\" and \"open\" commands executed from MATLAB Extension to use VS Code as editor",
+        "status": "In-Progress",
+        "edg_engineer": "Bhavik Bhatt",
+        "sponsor": "Hamid Farshi",
+        "mentor": "Duncan Lilley",
+        "edg_manager": "Jason Souza",
+        "start_date": "2025-05-26",
+        "expected_end": "2025-08-29",
+        "office_location": "US - Natick",
+        "department": "Other",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "d9edde33-bcf5-4221-a695-df8a9e0fb32b",
+    "name": "DA Test Frameworks",
+    "info": {
+      "main_contact": "Rucha Sule",
+      "description": "The DA Test Frameworks Team develops test tools for Simulink and Code Generation testing workflows. These test tools are based on MATLAB Testing Framework (MUnit) and are primarily written in MATLAB. We also develop exploratory testing and reporting infrastructure widely known as Feature Based tests (FBT) in MathWorks. The FBT infrastructure is hosted in Git and spans MATLAB, GoLang and JavaScript technologies. We are also exploring GenAI and Cody for some of the CDA focused test generation workflows. \n\nHere are some major test tools owned by the team:\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42556220/simulinktest.TestCase\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42554951/SimulationControlTester\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42555002/MATLABCoderTestCase\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42566005/AST-Based+Code+Content+Verification+tool+ASTVerifier\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42561451/FBT+Resource+Center",
+      "skills": [
+        "MATLAB",
+        "Simulink",
+        "code generation",
+        "JavaScript",
+        "GoLang",
+        "Test frameworks",
+        "Tool Development",
+        "Automated testing",
+        "Architecture Modeling",
+        "Customer workflows, Dev workflows",
+        "GitHub",
+        "BaT",
+        "RFAIN",
+        "Test Driven Development",
+        "Test tool development",
+        "Unit testing",
+        "genAI"
+      ],
+      "learning": [
+        "MATLAB",
+        "MATLAB Classes",
+        "JavaScript",
+        "Simulink",
+        "CDA Workflow",
+        "CDA customer workflows",
+        "ChatGPT",
+        "Code Generation",
+        "Code Reviews",
+        "Design Review and RFAIN",
+        "Design Patterns",
+        "Feature Based Testing",
+        "Go",
+        "Git",
+        "MATLAB Coder",
+        "MUnit",
+        "SOLID",
+        "Test Frameworks",
+        "Test Infrastructure",
+        "Test Writing",
+        "Tool Development",
+        "Working with BaT"
+      ],
+      "department": "Infrastructure Arch and Tools",
+      "office_locations": [
+        "US-Natick",
+        "IN-Bangalore"
+      ]
+    },
+    "projects": [
+      {
+        "id": "366988b5-b0ca-4387-8e1c-06a623ea5943",
+        "title": "AST Visualizer Nodes To Source Code link",
+        "status": "Planning",
+        "edg_engineer": "Jeffrey Zhang",
+        "sponsor": "Rucha Sule",
+        "mentor": "Kosi Onyeka",
+        "edg_manager": "Paul Wildman",
+        "start_date": "2025-06-02",
+        "expected_end": "2025-09-26",
+        "office_location": "US - Natick",
+        "department": "IAT",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "cbab16db-167f-4a81-930b-ec134e7051e0",
+    "name": "Private Cloud Foundations QE",
+    "info": {
+      "main_contact": "Joe Blomer",
+      "description": "Our team provides critical support to qualify our private cloud offerings which are foundational to the SaaS north-star vision. Private Cloud Foundation provides the infrastructure to develop, deploy, and productize MATLAB Online and multiple other existing and future Online Products to the cloud for our customers to use with their own secure, private environment.\n\nWe will need help to develop new cutting-edge tooling and automation to qualify our products and provide support to downstream teams who are working to support their products in the private cloud.\n\nYou will learn about microservices, DevOps, CI/CD pipelines, Go, Kubernetes, containers, functional and non-functional testing, and more.",
+      "skills": [
+        "DevOps",
+        "Cloud",
+        "Containers",
+        "Golang",
+        "Kubernetes",
+        "Cloud Providers",
+        "Distributed Systems"
+      ],
+      "learning": [
+        "Process Improvement",
+        "Kubernetes",
+        "Cloud-based applications",
+        "Cloud Platform Qualification",
+        "CI/CD",
+        "Pipeline Design and Implementation"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "d9d5eb41-a351-4a5d-885a-ca2fbdb681a4",
+        "title": "Enhance CI/CD pipeline for Authnz (authorization and authentication) microservice",
+        "status": "In-Progress",
+        "edg_engineer": "Adish Pathare",
+        "sponsor": "Joe Blomer",
+        "mentor": "Gowtham Uma Maheswari Jaganathan",
+        "edg_manager": "Paul Gjeltema",
+        "start_date": "2025-05-27",
+        "expected_end": "2025-07-25",
+        "office_location": "US - Natick",
+        "department": "QE",
+        "product_area": "OP"
+      }
+    ]
+  },
+  {
+    "id": "bb83a602-5d52-497a-ba63-f20749442507",
+    "name": "Product Security Operations & Vulnerability Intelligence",
+    "info": {
+      "main_contact": "Shallu Ranchan",
+      "description": "Our team is responsible for the product security operations for all our desktop, mobile, and online products. We work on Vulnerability Management, Static analysis, dynamic analysis, software composition analysis (3P vulnerabilities), MathWorks Bug Bounty program, Security research, tooling, analytics, performing penetration testing and security assessments of high-risk products and external researcher communication.",
+      "skills": [
+        "Security",
+        "Tool Development",
+        "Containers",
+        "Cloud",
+        "DevOps",
+        "Python",
+        "Scripting Languages",
+        "MATLAB",
+        "JavaScript"
+      ],
+      "learning": [
+        "JavaScript",
+        "Process Improvement",
+        "Program & Project Management",
+        "MATLAB"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "9ffd2515-caf6-4f13-b234-e85f620a0870",
+        "title": "Comparative Evaluation of Wiz and Xray CVE Scanning",
+        "status": "In-Progress",
+        "edg_engineer": "Tanner Bradford",
+        "sponsor": "Shallu Ranchan",
+        "mentor": "Laura Biggs",
+        "edg_manager": "Vipresh Gangwal",
+        "start_date": "2025-05-26",
+        "expected_end": "2025-07-18",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "d6929f8b-c05f-48b3-b0dc-9cd2a96b192a",
+    "name": "Code Deployment SDI/HMI/HDL Coder QE",
+    "info": {
+      "main_contact": "Avinash Mangena",
+      "description": "Our team owns the testing and quality of:\n1. SDI (Simulation Data Inspector), which is used to visualize and compare different kinds of data.\n2. RAP (record and playback blocks) are sink and source blocks. Record block is used to record data to workspace and file, whereas playback block is used to load the input data for simulation.\n3. HDL code (VHDL, Verilog, and SystemVerilog) generation support for Simulink Models\n4. Enhancing the HDL infrastructure, model generation, readability, and performance issues",
+      "skills": [
+        "MATLAB",
+        "MATLAB Classes",
+        "C++",
+        "Java",
+        "JavaScript",
+        "Simulink",
+        "funcunit",
+        "quinit"
+      ],
+      "learning": [
+        "MATLAB",
+        "MATLAB Classes",
+        "Simulink",
+        "JavaScript"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "de7eab0f-3d6b-4af9-9e25-ec8c29b70ed7",
+        "title": "Write a C++ unit test for HDL Coder using the latest Pirfect test infrastructure.",
+        "status": "In-Progress",
+        "edg_engineer": "Drishti Sharma",
+        "sponsor": "Avinash Mangena",
+        "mentor": "Sandeep Sundur Benjamin",
+        "edg_manager": "Neeharika Yayavaram",
+        "start_date": "2025-05-27",
+        "expected_end": "2025-08-15",
+        "office_location": "IN - Hyderabad",
+        "department": "QE",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "d668c2dc-9cf7-457e-82b3-497ee20a2c05",
+    "name": "Data Persistence",
+    "info": {
+      "main_contact": "Marc Greenberg",
+      "description": "The Data Persistence Team develops key infrastructure used by development teams across the organization such as MATLAB Data Array (a new C++ API which can be used to represent all MATLAB datatypes), Settings (which is used by C++, MATLAB and Javascript developers to store and retrieve their configuration data), Protobuf/JSON serialization and MAT-Files.",
+      "skills": [
+        "C++",
+        "MATLAB",
+        "JavaScript"
+      ],
+      "learning": [
+        "C++",
+        "JavaScript",
+        "MATLAB"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "69fca666-1052-4b29-90f0-6f9f3c0a5977",
+        "title": "C++ APIs for v7.3 MAT-Files",
+        "status": "Approved",
+        "edg_engineer": "Srivatsav Gunisetty",
+        "sponsor": "Marc Greenberg",
+        "mentor": "Sudeep Sureshan",
+        "edg_manager": "Bill Greenfield",
+        "start_date": "2025-05-26",
+        "expected_end": "2025-08-01",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      },
+      {
+        "id": "e81b654e-c3cb-46cc-abbb-1145f3035dac",
+        "title": "Adding Struct Support To MT-File Objects",
+        "status": "Approved",
+        "edg_engineer": "Serene Joe",
+        "sponsor": "Marc Greenberg",
+        "mentor": "Anna Itkis",
+        "edg_manager": "Ellie Stevens",
+        "start_date": "2025-02-24",
+        "expected_end": "2025-06-27",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "86dd4a58-12d5-49f2-838e-a9bc6c6ea64b",
+    "name": "Simulink Real-Time",
+    "info": {
+      "main_contact": "Jason Retik;Kivanc Bas;Marc Schafer",
+      "description": "The Simulink Real-Time QE team at MathWorks collaborates closely with the Development team to ensure the quality and reliability of the software. The Development team deploys Simulink models to real-time hardware, and develops high-performance instrumentation for handling big data on a customized, real-time Linux kernel.\n\nWe work in conjunction with the Development team to test and validate the functionality, performance, and compatibility of Simulink Real-Time and Simulink Desktop Real-Time. We maintain automated test suites, execute test cases, and analyze results to identify and report any issues or bugs. This collaborative effort ensures the stability, reliability, and performance of Simulink Real-Time, enabling efficient prototyping and simulation of real-time systems while handling large amounts of data.\n\nAdditionally, working with our team provides the opportunity to collaborate with cutting-edge hardware such as Speedgoat targets. If you have a passion for hardware or embedded systems, you'll find a perfect fit here. You'll have the chance to actively engage in exciting projects, leveraging these cool technologies and contributing to the development of real-time systems in various industries.\n",
+      "skills": [
+        "C",
+        "C++",
+        "MATLAB",
+        "Simulink",
+        "Simulink Real-Time"
+      ],
+      "learning": [
+        "C",
+        "C++",
+        "MATLAB",
+        "Simulink",
+        "Simulink Real-Time"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "4cec34ca-5f01-4b95-8ff0-6f1b175c2051",
+        "title": "Host-Target Connectivity Block",
+        "status": "Planning",
+        "edg_engineer": "Enrico Cruvinel",
+        "sponsor": "Gautham Ponnu",
+        "mentor": "Chris Zhang",
+        "edg_manager": "Jason Souza",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-08-15",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "549d6b86-a673-4069-bd2c-cda8a5592c97",
+    "name": "Simulink Solvers",
+    "info": {
+      "main_contact": "Fu Zhang",
+      "description": "Simulink solver team is responsible for solving Simulink models and advanced analysis such as Linearization, performance analysis of complex models. ",
+      "skills": [
+        "C++, Simulink, MATLAB, Controls"
+      ],
+      "learning": [
+        "RFAIN, C++. software development process. Simulik Engine"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "23f19f94-3044-4839-bac7-150810d82928",
+        "title": "Row Major Support for Linear Blocks",
+        "status": "Approved",
+        "edg_engineer": "Guy Berreby",
+        "sponsor": "Fu Zhang",
+        "mentor": "Jimmy Clinton",
+        "edg_manager": "Paul Gjeltema",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-07-18",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      },
+      {
+        "id": "51874210-90ee-4a9b-8e34-34fc22dd94b3",
+        "title": "Improvement of Model to Equation",
+        "status": "Approved",
+        "edg_engineer": "Guy Berreby",
+        "sponsor": "Fu Zhang",
+        "mentor": "Fu Zhang",
+        "edg_manager": "Paul Gjeltema",
+        "start_date": "2024-10-28",
+        "expected_end": "2025-01-31",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "d479e9f2-7b6e-4cd4-8de9-de949c062843",
+    "name": "Computational Finance",
+    "info": {
+      "main_contact": "Chris Garvin",
+      "description": "Our team is responsible for the financial products suite of tools as well as database and spreadsheet connectivity.",
+      "skills": [
+        "C++",
+        "Java",
+        "MATLAB"
+      ],
+      "learning": [
+        "C++",
+        "MATLAB",
+        "Java",
+        "Process Improvement",
+        "Database Toolbox",
+        "Datafeed Toolbox",
+        "Econometrics Toolbox",
+        "Financial Instruments Toolbox",
+        "Financial Toolbox",
+        "Risk Management Toolbox"
+      ],
+      "department": "Development (Engineering and QE)",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "fdd62cf9-202d-4014-b94a-efb200112316",
+        "title": "Portfolio Analytics App",
+        "status": "In-Progress",
+        "edg_engineer": "Aleks Dzodic",
+        "sponsor": "Gabo Lopez-Calva",
+        "mentor": "Alejandra Pena-Ordieres",
+        "edg_manager": "Nitya Jay",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-07-25",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      },
+      {
+        "id": "1ec448e3-6c9b-4ddc-bfce-a9e24c9b9cd9",
+        "title": "Evaluate Database Toolbox Compatibility with PostgreSQL's pgvector, SQLite_vec, and duckdb's vss/faiss extensions",
+        "status": "Planning",
+        "edg_engineer": "Uday Patel",
+        "sponsor": "Chris Garvin",
+        "mentor": "Kevin Seekell",
+        "edg_manager": "Bill Greenfield",
+        "start_date": "2025-06-09",
+        "expected_end": "2025-08-15",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "37492433-4874-42be-a4e0-a5cd9088f7e6",
+    "name": "Computational Finance",
+    "info": {
+      "main_contact": "Chris Garvin",
+      "description": "Our team is responsible for the financial products suite of tools as well as database and spreadsheet connectivity.",
+      "skills": [
+        "MATLAB",
+        "C++",
+        "Java",
+        "MATLAB Classes"
+      ],
+      "learning": [
+        "MATLAB",
+        "MATLAB Classes",
+        "C++",
+        "Java",
+        "Process Improvement",
+        "financial modeling",
+        "climate risk modeling",
+        "Database Toolbox",
+        "Datafeed Toolbox",
+        "Econometrics Toolbox",
+        "Financial Toolbox",
+        "Financial Instruments Toolbox",
+        "Risk Management Toolbox"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "d442bfc9-50a0-4d3a-8434-868c78d609e1",
+        "title": "Portfolio Analytics App",
+        "status": "In-Progress",
+        "edg_engineer": "Aleks Dzodic",
+        "sponsor": "Gabo Lopez-Calva",
+        "mentor": "Alejandra Pena-Ordieres",
+        "edg_manager": "Nitya Jay",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-07-25",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      },
+      {
+        "id": "49b1aaed-444e-409d-a234-843b2d6af117",
+        "title": "Evaluate Database Toolbox Compatibility with PostgreSQL's pgvector, SQLite_vec, and duckdb's vss/faiss extensions",
+        "status": "Planning",
+        "edg_engineer": "Uday Patel",
+        "sponsor": "Chris Garvin",
+        "mentor": "Kevin Seekell",
+        "edg_manager": "Bill Greenfield",
+        "start_date": "2025-06-09",
+        "expected_end": "2025-08-15",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "d41c8a0a-9a0c-47c3-8af2-81d614cbceea",
+    "name": "Experiment Manager",
+    "info": {
+      "main_contact": "Shahed Nejhum",
+      "description": "Our team develops the Experiment Manager app in MATLAB and supports experiment workflows for Deep Learning and Machine Learning.",
+      "skills": [
+        "Cloud",
+        "DevOps",
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes"
+      ],
+      "learning": [
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes",
+        "Deep Learning Toolbox",
+        "Statistics and Machine Learning Toolbox"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "470cccdd-3a8f-4112-b0d8-ddc395527122",
+        "title": "Implement an 'Add From Workspace' option for Experiement Manager Hyperparameters",
+        "status": "In-Progress",
+        "edg_engineer": "Jack Meehan",
+        "sponsor": "Shahed Nejhum",
+        "mentor": "Shahed Nejhum",
+        "edg_manager": "Elizabeth Reese",
+        "start_date": "2025-04-07",
+        "expected_end": "2025-05-23",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "69e9dc45-05fa-45d5-b6f3-007453859215",
+    "name": "MATLAB Object System",
+    "info": {
+      "main_contact": "Jennifer Black",
+      "description": null,
+      "skills": [
+        "C++",
+        "MATLAB Classes",
+        "MATLAB",
+        "RFAIN"
+      ],
+      "learning": [
+        "C++; MATLAB classes; MCOS C++ interface; RFAIN; software development lifecycle; MathWorks development tools"
+      ],
+      "department": "Language of Tech. Computing",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "4a1375da-c144-4501-b90c-edde744e8e96",
+        "title": "Add support for MATLAB class alias deprecation warnings",
+        "status": "In-Progress",
+        "edg_engineer": "Anthony Nool",
+        "sponsor": "Jennifer Black",
+        "mentor": "Philip Miljanic",
+        "edg_manager": "Anjana Raghupathi",
+        "start_date": "2025-05-12",
+        "expected_end": "2025-07-18",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "72c45eb3-83af-4d09-b5ee-f2897d548e22",
+    "name": "Globalization",
+    "info": {
+      "main_contact": "Damien O'Donovan;Rob Henson",
+      "description": "The Globalization department is responsible for translation of our software, documentation, training, and marketing materials for MATLAB and Simulink. We also ensure that our software is capable of working correctly with multilingual data. Half of our work is to create tools to enable the internationalization and localization of our software. The other part is ensuring that we have high quality translation. We work with Chinese, Japanese, Korean, French, Italian, German, and Spanish.\n\nEnglish is not the first language for many of our customers, and potential customers. We believe that localizing our content \u2013 documentation, software, online training content, marketing material, videos, etc. \u2013 will help our customers evaluate a product, complete a transaction such as downloading or purchasing, learn to use our products, or troubleshoot an issue.   ",
+      "skills": [
+        "Python",
+        "DevOps",
+        "Tool Development",
+        "Process Improvement",
+        "AI Technologies",
+        "ChatGPT",
+        "LLMs",
+        "text analytics",
+        "Computer Aided Translation tools",
+        "Web Services"
+      ],
+      "learning": [
+        "Python",
+        "Computer Aided Translation tools",
+        "ChatGPT",
+        "Tool Development",
+        "Web Services"
+      ],
+      "department": "Globalization",
+      "office_locations": [
+        "US-Natick",
+        "IN-Hyderabad"
+      ]
+    },
+    "projects": [
+      {
+        "id": "339d78b0-c228-4ea1-af53-bfa07c387073",
+        "title": "Constructing a Testing Pipeline for Prompts",
+        "status": "In-Progress",
+        "edg_engineer": "Anurag Ojha",
+        "sponsor": "Rob Henson",
+        "mentor": "Myriam Bocquillon",
+        "edg_manager": "Phani Krishna Pantula",
+        "start_date": "2025-05-05",
+        "expected_end": "2025-05-30",
+        "office_location": "IN - Hyderabad",
+        "department": "Engineering",
+        "product_area": "OP"
+      }
+    ]
+  },
+  {
+    "id": "5f35f506-766f-49f1-8929-7cac07a58c29",
+    "name": "Release Engineering",
+    "info": {
+      "main_contact": "Jeffrey Lin",
+      "description": "Release Engineering provides development support services and resources to deliver MathWorks products on time and to provide predictability to our development process. The ongoing purpose of the Release Engineering team is to keep our build, test, and release process running smoothly. This involves managing our integration process, augmenting our build, test and release strategy to meet our product delivery and quality requirements, and developing tools and other resources to streamline our development process.",
+      "skills": [
+        "Debugging, C++, MATLAB, Passion to support Development/Release of our products"
+      ],
+      "learning": [
+        "Software Development Lifecycle (SDLC), Change Management, Git, Continuous Integration (CI), Continuous Deployment (CD), MathWorks Infrastructure"
+      ],
+      "department": "Infrastructure Arch and Tools",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "50dd6f88-bf17-451f-af88-8035511bc696",
+        "title": "Reduction in processing time of Keyword search",
+        "status": "In-Progress",
+        "edg_engineer": "Raj Sinha",
+        "sponsor": "Manoj Ravindra",
+        "mentor": "Sainadh Muppavarapu",
+        "edg_manager": "Ankit Mathur",
+        "start_date": "2025-05-05",
+        "expected_end": "2025-07-26",
+        "office_location": "IN - Hyderabad",
+        "department": "IAT",
+        "product_area": ""
+      }
+    ]
+  },
+  {
+    "id": "b80d4d12-ec28-40bd-b7de-296e0f8fa1aa",
+    "name": "Sandbox Workflows",
+    "info": {
+      "main_contact": "Pedro Proenca",
+      "description": "Sandbox Workflows, part of IAT, is an internal team supporting processes and tooling of common Development workflows in the areas of sandbox management (Sandbox Manager), code reviewing (Review Board), exploring and refactoring (Code Search, Sourcegraph, Doxygen) plus AI-assisted coding tools (Sourcegraph Cody). Additionally, we provide tooling for certain UX activities (UX Study Manager) and icon management (Icon ID Catalog, Icon Repository). Our aim is to increase developer productivity by improving the ease of use and reliability of our tools.  To do so, our web applications leverage state of the art and industry standard technologies and frameworks(Linux, Apache, nginx, MySQL/MariaDB, Node.js, TypeScript, React, Next.js, Electron, Solr, Golang), Docker, GenAI.\u201d",
+      "skills": [
+        "JavaScript",
+        "Databases",
+        "Tool Development"
+      ],
+      "learning": [
+        "Java",
+        "JavaScript",
+        "Tools and Infrastructure"
+      ],
+      "department": "Infrastructure Arch and Tools",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "68769e1c-990d-47a9-921d-d3a2c9fe7263",
+        "title": "Dockerizing Sandbox Manager Services",
+        "status": "Approved",
+        "edg_engineer": "Darren Chen",
+        "sponsor": "Pedro Proenca",
+        "mentor": "Barret Furton",
+        "edg_manager": "Jason Jumper",
+        "start_date": "2025-05-01",
+        "expected_end": "2025-08-01",
+        "office_location": "US - Natick",
+        "department": "IAT",
+        "product_area": ""
+      }
+    ]
+  },
+  {
+    "id": "31e7fe6f-ed96-462d-8819-05305ac41e9e",
+    "name": "GPU Coder",
+    "info": {
+      "main_contact": "Ram Kokku;Chao Luo",
+      "description": null,
+      "skills": [
+        "C++",
+        "C++, CUDA, Deep Learning,  Compiler"
+      ],
+      "learning": [
+        "C++",
+        "C++, CUDA, GPUs, compiler",
+        "JavaScript",
+        "GPU Coder"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "1a65de7d-0840-466f-99ee-a8f8e3c7ec07",
+        "title": "Develop TCP/IP server using C++",
+        "status": "In-Progress",
+        "edg_engineer": "Harsh Mahalwar",
+        "sponsor": "Ramakrishna Mandalapu",
+        "mentor": "Ramakrishna Mandalapu",
+        "edg_manager": "Pavan Adapa",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-09-19",
+        "office_location": "IN - Hyderabad",
+        "department": "Engineering",
+        "product_area": "CDA"
+      },
+      {
+        "id": "0ba6314e-0103-4d36-bba3-33ad715dba62",
+        "title": "Develop TCP/IP server using C++",
+        "status": "In-Progress",
+        "edg_engineer": "Harsh Mahalwar",
+        "sponsor": "Ramakrishna Mandalapu",
+        "mentor": "Ramakrishna Mandalapu",
+        "edg_manager": "Pavan Adapa",
+        "start_date": "2025-05-19",
+        "expected_end": "2025-09-19",
+        "office_location": "IN - Hyderabad",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "cd0f0cc3-41fd-4ae0-9ca0-0987c12f6e59",
+    "name": "Statistics and Machine Learning QE",
+    "info": {
+      "main_contact": "Ghada Saleh",
+      "description": "Our team is responsible for testing statistics functions, ML algorithms, Apps, ML Simulink blocks, deployment (codegen, gpu, coder), and DL interactions with 3P libraries like PyTorch and TensorFlow.",
+      "skills": [
+        "MATLAB",
+        "MATLAB Classes",
+        "Test frameworks",
+        "Containers",
+        "Process Improvement"
+      ],
+      "learning": [
+        "MATLAB",
+        "MATLAB Classes"
+      ],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "cfd6d146-99f5-4446-a086-403603180b3d",
+        "title": "Add missing unit tests for ONNX operators.",
+        "status": "Planning",
+        "edg_engineer": "Sourav Sinha",
+        "sponsor": "Ghada Saleh",
+        "mentor": "Shruthi Sankepelly",
+        "edg_manager": "Jason Souza",
+        "start_date": "2025-04-07",
+        "expected_end": "2025-07-11",
+        "office_location": "US - Natick",
+        "department": "QE",
+        "product_area": "LTC"
+      }
+    ]
+  },
+  {
+    "id": "b1f3c09e-7dc3-4dd8-bfe3-2b2d9565ab1f",
+    "name": "BaT Software",
+    "info": {
+      "main_contact": "Mayank Advani",
+      "description": "The Build and Test (BaT) team is at the forefront of enabling our 3000-strong distributed development organization to seamlessly develop (build) and validate (test) their work. This proprietary CI system offers unparalleled features that surpass any off-the-shelf CI solution, including massively parallelized testing across thousands of hosts, in-depth analysis of build and test failures, automatic reruns of correctable failures, and the capability to silence and re-enable tests automatically, among many others.\nThe BaT team is composed of highly motivated and intelligent individuals who are dedicated to delivering the best CI experience to MathWorks developers. As part of BaT, you will collaborate closely with developers, buildmadmins, release engineers, and various infrastructure teams to gather requirements and deliver solutions that exceed our customers' expectations.\n\nWe are actively working on designing, architecting, and converging onto what our next SCM would look like, and developing infrastructure standards and tools to support this new exciting world. Our vision is to create a seamless and innovative SCM ecosystem that enhances efficiency, scalability, and collaboration across all platforms.",
+      "skills": [
+        "Java, Spring Boot, Java EE, Git, Perforce, JavaScript (ReactJS, ExtJS, NodeJS), Go, MariaDB, Scripting"
+      ],
+      "learning": [
+        "Java, Spring Boot, Java EE, Git, Perforce, JavaScript (ReactJS, ExtJS, NodeJS), Go, MariaDB, Scripting"
+      ],
+      "department": "Infrastructure Arch and Tools",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "11f5b983-39e6-41f3-a940-7c2a0c01314f",
+        "title": "Include a new content type, FILE_COUNT, in the contents call to provide a more comprehensive contents data overview",
+        "status": "In-Progress",
+        "edg_engineer": "Saurabh Singh",
+        "sponsor": "Ayush Singhal",
+        "mentor": "Sasidhar Pulimi",
+        "edg_manager": "Abhishek Bhat",
+        "start_date": "2025-03-24",
+        "expected_end": "2025-07-29",
+        "office_location": "IN - Bangalore",
+        "department": "IAT",
+        "product_area": ""
+      }
+    ]
+  },
+  {
+    "id": "5c1431d8-5b8a-4b44-8cf0-ce639454cbf0",
+    "name": "Simulink Copilot",
+    "info": {
+      "main_contact": "Anirban Chatterjee",
+      "description": "We are building an AI assistant for Simulink, whose goal is to assist customers in their daily Model-Based Design workflows, by providing useful explanations and answers to user questions, creating models and subsystems from natural language and equations, and leverage our existing products to achieve much more!",
+      "skills": [
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes"
+      ],
+      "learning": [
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "fa7823f8-39e1-4ddd-b4bf-6bdc775ffe6c",
+        "title": "System Composer Model Construction Plugin",
+        "status": "Approved",
+        "edg_engineer": "Derrick Liu",
+        "sponsor": "Anirban Chatterjee",
+        "mentor": "Omkar Waghmare",
+        "edg_manager": "Jon Fournier",
+        "start_date": "2025-03-17",
+        "expected_end": "2025-05-16",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "ef10afe4-1618-437a-a7c7-6ea32d91e577",
+    "name": "Platform Aware Code Generation",
+    "info": {
+      "main_contact": "Xiaocang Lin;Biao Yu",
+      "description": "We seek to provide users the ability to model, verify, and deploy software to any platform.",
+      "skills": [
+        "C++",
+        "Matlab",
+        "TLC",
+        "Communication skills",
+        "Algorithms",
+        "Data structures",
+        "Object-Oriented Design"
+      ],
+      "learning": [
+        "Process Improvement",
+        "Automated testing in C++",
+        "C++, RFAIN, Hardware, BaT, Development Workflows",
+        "MCOS C++ Interface",
+        "Presentation Skills",
+        "Embedded Coder",
+        "Simulink Coder",
+        "Simulink"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "14d37a95-cf83-45ca-8c42-68efc93b3944",
+        "title": "Exploring Block/Port Tracing for CGIR-Based Data Transfer Diagnostics",
+        "status": "Approved",
+        "edg_engineer": "Christian George",
+        "sponsor": "Biao Yu",
+        "mentor": "Jimmy Wang",
+        "edg_manager": "Jon Fournier",
+        "start_date": "2025-04-14",
+        "expected_end": "2025-06-20",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "a8c0c8d9-5533-4b48-aca7-755375f533a9",
+    "name": "Deep Learning Coder",
+    "info": {
+      "main_contact": "Hariprasad Ravishankar;Ram Kokku",
+      "description": "DL Coder team is responsible for enabling deep learning deployment for various embedded platforms through MATLAB Coder, GPU Coder and Embedded Coder.  The teams development activities include \n1. compiler optimizations to make deep learning algorithms run faster in CPU & GPUs\n2. Developing optimized algorithms for CPUs & GPUs\n3. LLMs deployment to edge devices \n",
+      "skills": [
+        "C++",
+        "MATLAB",
+        "Scripting Languages"
+      ],
+      "learning": [
+        "C++"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "2eba2ee7-a6e6-4022-b4c7-aa780749eede",
+        "title": "Support dlnetwork/predict with numeric inputs",
+        "status": "In-Progress",
+        "edg_engineer": "Roman Silen",
+        "sponsor": "Hariprasad Ravishankar",
+        "mentor": "Nathan Malimban",
+        "edg_manager": "Dalton Ryan",
+        "start_date": "2025-03-10",
+        "expected_end": "2025-05-30",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      },
+      {
+        "id": "dc501443-c7fd-4dbc-9b9d-fdd18c2d2ff6",
+        "title": "Support dlnetwork/predict with numeric inputs",
+        "status": "In-Progress",
+        "edg_engineer": "Roman Silen",
+        "sponsor": "Hariprasad Ravishankar",
+        "mentor": "Nathan Malimban",
+        "edg_manager": "Dalton Ryan",
+        "start_date": "2025-03-10",
+        "expected_end": "2025-05-30",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "78525681-654e-455c-98a7-5c479859918a",
+    "name": "MATLAB Coder Language",
+    "info": {
+      "main_contact": "Konstantinos Athanasiou",
+      "description": null,
+      "skills": [
+        "Compiler development, program analysis, type systems, C++"
+      ],
+      "learning": [
+        "C++, compiler design, programming language semantics, type systems & type inference",
+        "MATLAB Coder"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "ed778339-8527-4fed-b565-ae9970f89d76",
+        "title": "MEX Dispatch for Class Entrypoint Specializations",
+        "status": "In-Progress",
+        "edg_engineer": "Sam Claflin",
+        "sponsor": "Sumit Ghosh",
+        "mentor": "Matan Silver",
+        "edg_manager": "Mike Farry",
+        "start_date": "2025-03-10",
+        "expected_end": "2025-06-13",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "14e8519f-082b-470d-b8cd-2bf5b677946e",
+    "name": "IAT Cloud Platform",
+    "info": {
+      "main_contact": "Nagapadman Nagarajan",
+      "description": null,
+      "skills": [
+        "Terraform",
+        "GoLang",
+        "Infrastructure as Code",
+        "GitHub",
+        "GitHub Actions",
+        "AWS",
+        "AWS EKS",
+        "Networking",
+        "Security",
+        "Cloud"
+      ],
+      "learning": [
+        "RFAIN",
+        "Program & Project Management",
+        "Code reviews",
+        "Monitoring",
+        "Alerts Management",
+        "Cost Management"
+      ],
+      "department": "Infrastructure Arch and Tools",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "b07b494a-a942-448f-b7e7-76daa15841da",
+        "title": "Add EKS version in EKS Clusters UI",
+        "status": "In-Progress",
+        "edg_engineer": "David Trannam",
+        "sponsor": "Nagapadman Nagarajan",
+        "mentor": "Priyanka Seernam",
+        "edg_manager": "Elizabeth Reese",
+        "start_date": "2025-01-27",
+        "expected_end": "2025-05-23",
+        "office_location": "US - Natick",
+        "department": "IAT",
+        "product_area": ""
+      }
+    ]
+  },
+  {
+    "id": "22a1eeeb-087a-49e0-a5fa-92eb131c05e5",
+    "name": "Simulink Test",
+    "info": {
+      "main_contact": "Gregg Smith;Mohan Feng;Eeshan Mitra",
+      "description": "\t\nOur group is responsible for developing a cutting edge and fast growing product for automating verification of Simulink models and code: Simulink Test.\n\nWe design, implement, and ship key features to support functional testing of Simulink and Stateflow models.  Our work includes designing new Simulink and Stateflow-derived language constructs, efficient methods of execution and new ways to visualize testing outcomes.\n\nWe are expanding our focus to deliver our toolchain on the cloud.",
+      "skills": [
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes",
+        "Simulink",
+        "Stateflow",
+        "Cloud"
+      ],
+      "learning": [
+        "C++",
+        "JavaScript",
+        "MATLAB",
+        "MATLAB Classes",
+        "Simulink",
+        "Stateflow",
+        "Cloud",
+        "Simulink Test"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "8117d74f-0803-46f8-8e55-5aa113eedd15",
+        "title": "Evolve Quality Center app registry in ui-service",
+        "status": "In-Progress",
+        "edg_engineer": "Govind Mepad",
+        "sponsor": "Abel Babu",
+        "mentor": "Piyush Aggarwal",
+        "edg_manager": "Pavan Kanago",
+        "start_date": "2025-01-27",
+        "expected_end": "2025-07-31",
+        "office_location": "IN - Bangalore",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "591429f4-7846-4350-a767-ae5f40c51c4e",
+    "name": "Simulink Architecture",
+    "info": {
+      "main_contact": "Jiteshri Ektare;Katy Robison;Jamieson Cobleigh;Lei Lei",
+      "description": "We develop state of art technology stack to enable scalability for Simulink product family such as Stateflow, Embedded Coder, DSP System Toolbox, etc. Additionally, we develop foundation frameworks to allow DA teams develop their features with highest quality.  \n",
+      "skills": [
+        "C++",
+        "Simulink",
+        "Tool Development",
+        "Test frameworks",
+        "Process Improvement",
+        "Program & Project Management"
+      ],
+      "learning": [
+        "C++",
+        "MATLAB",
+        "Simulink"
+      ],
+      "department": "Control Design Automation",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "68be2af4-6048-41bd-97bb-ef68ded680a2",
+        "title": "Convert SLCompBlock Properties with DynamicProperties API",
+        "status": "In-Progress",
+        "edg_engineer": "Elaine Chen",
+        "sponsor": "Jamieson Cobleigh",
+        "mentor": "Xiao Chen",
+        "edg_manager": "Kavitha Krishna",
+        "start_date": "2025-01-06",
+        "expected_end": "2025-05-21",
+        "office_location": "US - Natick",
+        "department": "Engineering",
+        "product_area": "CDA"
+      }
+    ]
+  },
+  {
+    "id": "ebcbec39-6140-4b37-8d84-08e5f9aec5e1",
+    "name": "Simulink Architecture and Sbtools QE",
+    "info": {
+      "main_contact": "Jenny Ren",
+      "description": "Our team support both Simulink Architecture team and Sbtools team. \n\nSimulink Architecture team works on core infrastructure in Simulink that can benefit many other CDA products. The team's vision is to offer scalable and unit testable architecture in Simulink. QE team works w/ developers closely throughout the whole development cycle, from design review to implementation and testing stage. Together, QE and development teams are making critical contributions toward company's goal of making \"Simulink as a Service\".\n\nSbtools team develops sandbox qualification tools that are widely used in CDA teams. QE team actively works on multiple projects to keep the tools in good condition so that the big user groups can do their job efficiently and effectively. ",
+      "skills": [
+        "C++",
+        "MATLAB",
+        "Simulink",
+        "Test frameworks",
+        "Python",
+        "Scripting Languages",
+        "Tool Development",
+        "Perl",
+        "Componentization",
+        "Design",
+        "Refactoring",
+        "Excellent debugging skills"
+      ],
+      "learning": [],
+      "department": "Quality Engineering",
+      "office_locations": [
+        "US-Natick"
+      ]
+    },
+    "projects": [
+      {
+        "id": "71b166a4-0918-48d0-991d-0061acfebee2",
+        "title": "C++ unit tests of SL Architecture core components",
+        "status": "In-Progress",
+        "edg_engineer": "Linyan Xiang",
+        "sponsor": "Jenny Ren",
+        "mentor": "Weijun Huang",
+        "edg_manager": "Drew Glaser",
+        "start_date": "2024-12-16",
+        "expected_end": "2025-05-16",
+        "office_location": "US - Natick",
+        "department": "QE",
+        "product_area": "CDA"
+      }
+    ]
+  }
+]
