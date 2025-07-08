@@ -1,0 +1,912 @@
+{
+  "MATLAB External Interfaces": {
+    "team_info": {
+      "Main contact": "Fazil Peermohammed",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"C\",\"C++\",\"JavaScript\",\"MATLAB\",\"Python, .NET, HTTPS\"]",
+      "With us, you may learn": "[\"C++\",\"JavaScript\",\"MATLAB\",\"Python, .NET, HTTPS\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/dev/ltc/matlab/lang/ClassSys/Interop/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "InterfaceLibraryPath support in clibConfiguration as NV argument",
+        "Project status": "Approved",
+        "EDG Engineer": "Ronit Jain",
+        "Project sponsor (Manager)": "Umar Basha",
+        "Project mentor": "Prashanth Nayanagari",
+        "EDG Manager": "Pavan Kanago",
+        "Start date": "7/7/2025",
+        "Expected completion date": "9/5/2025",
+        "Office Location (EDG Engineer)": "IN - Bangalore",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Language Analysis / Programming Aids / MCOS QE": {
+    "team_info": {
+      "Main contact": "Kati Kline",
+      "Description of Team": "Work at the heart of the MATLAB language and on highly visible features to all MATLAB users!  \n\nWe support critical parts of the MATLAB language such as core performant data types (string, pattern, dictionary), parsing to IR, and MATLAB classes, as well as features that to make all MATLAB users' lives easier (Code Analyzer and programming aids like tab completion). ",
+      "Main skills used by this team": "[\"MATLAB\",\"MATLAB Classes\",\"Test frameworks\",\"Tool Development\",\"Process Improvement\",\"Program & Project Management\",\"Code coverage\",\"Performance testing\",\"JavaScript\",\"C++\"]",
+      "With us, you may learn": "[\"MATLAB\",\"MATLAB Classes\",\"C++\",\"JavaScript\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/pages/viewpage.action?pageId=222765421"
+    },
+    "projects": [
+      {
+        "Title": "Performance Test Procedure for MCOS functions",
+        "Project status": "Planning",
+        "EDG Engineer": "Catherine Pan",
+        "Project sponsor (Manager)": "Kati Kline",
+        "Project mentor": "Milind Ranade",
+        "EDG Manager": "Jason Jumper",
+        "Start date": "7/2/2025",
+        "Expected completion date": "7/17/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "QE",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Simulink Simulation": {
+    "team_info": {
+      "Main contact": "Alex Trubitsyn",
+      "Description of Team": "Simulink Simulation team is responsible for the main entry points into simulation (sim command, play button, simulation stepper) and the infrastructure to advance simulation while supporting the various runtime features in Simulink. The team is currently focusing on two big projects: creating a framework for distributed simulations (using cloud services) and revamping the Simulink debugging workflows.\n\nThe team is also responsible for the core Simulink workflows of input data loading, including inter-process communication, and simulation state save/restore.\n\nThis team's work involves design considerations affecting the entire Simulink platform. \nExplore projects with us if you are interested in broad-impact features, software architecture, and/or cloud technologies.",
+      "Main skills used by this team": "[\"C++\",\"MATLAB\",\"Simulink\"]",
+      "With us, you may learn": "[\"C++\",\"Program & Project Management\",\"Simulink\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/SLINTF"
+    },
+    "projects": [
+      {
+        "Title": "Continue the Category CI project and Use Example Manager to Resolve a Geck",
+        "Project status": "Planning",
+        "EDG Engineer": "Lauren Melcher",
+        "Project sponsor (Manager)": "Sarah Blagdon",
+        "Project mentor": "Chinmayi Deshpande",
+        "EDG Manager": "Jason Jumper",
+        "Start date": "7/14/2025",
+        "Expected completion date": "7/25/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Doc",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "CGIR": {
+    "team_info": {
+      "Main contact": "Dale Martin;David Serr;Balaji Elangovan",
+      "Description of Team": "We develop and maintain the code generation technology leveraged by DA Coder products (MATLAB Coder, Embedded Coder, GPU Coder, Simulink Accelerator, Simulink Design Verifier, Stateflow, etc.)",
+      "Main skills used by this team": "[\"Compiler Development\",\"C++\",\"Test Driven Development\"]",
+      "With us, you may learn": "[\"C++, Test Driven Development, Compilers, Code Generation\",\"GPU Coder\",\"HDL Coder\",\"MATLAB Coder\",\"Simulink Coder\",\"Simulink PLC Coder\",\"Stateflow\",\"Embedded Coder\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "http://mlc/cgir/"
+    },
+    "projects": [
+      {
+        "Title": "LLVM/MLIR Ramp-Up: TableGen Markdown & C++ Backend",
+        "Project status": "In Progress",
+        "EDG Engineer": "Rachel Han",
+        "Project sponsor (Manager)": "Akshatha Bhat",
+        "Project mentor": "Ryan Holt",
+        "EDG Manager": "Jason Jumper",
+        "Start date": "6/23/2025",
+        "Expected completion date": "6/30/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Optimization": {
+    "team_info": {
+      "Main contact": "Steve Grikschat",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"C++\",\"MATLAB\",\"MATLAB Classes\"]",
+      "With us, you may learn": "[\"C++\",\"MATLAB\",\"MATLAB Classes\",\"Global Optimization Toolbox\",\"Optimization Toolbox\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "http://sharepoint/dev/ltc/math/optim/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Iterative Data Refactor for fminunc",
+        "Project status": "Planning",
+        "EDG Engineer": "Renan Lima Thomes",
+        "Project sponsor (Manager)": "Steve Grikschat",
+        "Project mentor": "Sean Driscoll",
+        "EDG Manager": "Paul Wildman",
+        "Start date": "6/23/2025",
+        "Expected completion date": "8/1/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "MATLAB Doc Team": {
+    "team_info": {
+      "Main contact": "Claudette Fowler",
+      "Description of Team": "MATLAB writers work closely with development teams in core MATLAB to create goal-oriented content for users and participate in product design reviews. ",
+      "Main skills used by this team": "[\"MATLAB\",\"Communication skills\"]",
+      "With us, you may learn": "[\"Design reviews\",\"Doc requirements\",\"Doc metrics\"]",
+      "Department_team": "Documentation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/doc/SitePages/Home.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Moving Annotation Propeties to Object templates",
+        "Project status": "In Progress",
+        "EDG Engineer": "Nina De La Torre",
+        "Project sponsor (Manager)": "Claudette Fowler",
+        "Project mentor": "Jennifer Rebbin",
+        "EDG Manager": "Jason Jumper",
+        "Start date": "6/16/2025",
+        "Expected completion date": "7/7/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Doc",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "MATLAB Editor Core and Ecosystem": {
+    "team_info": {
+      "Main contact": "Hamid Farshi",
+      "Description of Team": "We provide a world-class MATLAB code and text editing experience for all types of users for all types of coding workflows \u2013 scripting, notebook authoring, and software development \u2013 in a single Editor with reusable components inside and outside of MATLAB.",
+      "Main skills used by this team": "[\"C++\",\"JavaScript\",\"MATLAB\"]",
+      "With us, you may learn": "[\"C++\",\"JavaScript\",\"MATLAB\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/EDITOR/Editor+Core+and+Ecosystem+Team"
+    },
+    "projects": [
+      {
+        "Title": "Allow \"edit\" and \"open\" commands executed from MATLAB Extension to use VS Code as editor",
+        "Project status": "In Progress",
+        "EDG Engineer": "Bhavik Bhatt",
+        "Project sponsor (Manager)": "Hamid Farshi",
+        "Project mentor": "Duncan Lilley",
+        "EDG Manager": "Jason Souza",
+        "Start date": "5/26/2025",
+        "Expected completion date": "8/29/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Other",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "DA Test Frameworks": {
+    "team_info": {
+      "Main contact": "Rucha Sule",
+      "Description of Team": "The DA Test Frameworks Team develops test tools for Simulink and Code Generation testing workflows. These test tools are based on MATLAB Testing Framework (MUnit) and are primarily written in MATLAB. We also develop exploratory testing and reporting infrastructure widely known as Feature Based tests (FBT) in MathWorks. The FBT infrastructure is hosted in Git and spans MATLAB, GoLang and JavaScript technologies. We are also exploring GenAI and Cody for some of the CDA focused test generation workflows. \n\nHere are some major test tools owned by the team:\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42556220/simulinktest.TestCase\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42554951/SimulationControlTester\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42555002/MATLABCoderTestCase\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42566005/AST-Based+Code+Content+Verification+tool+ASTVerifier\nhttps://mathworks.atlassian.net/wiki/spaces/DATF/pages/42561451/FBT+Resource+Center",
+      "Main skills used by this team": "[\"MATLAB\",\"Simulink\",\"code generation\",\"JavaScript\",\"GoLang\",\"Test frameworks\",\"Tool Development\",\"Automated testing\",\"Architecture Modeling\",\"Customer workflows, Dev workflows\",\"GitHub\",\"BaT\",\"RFAIN\",\"Test Driven Development\",\"Test tool development\",\"Unit testing\",\"genAI\"]",
+      "With us, you may learn": "[\"MATLAB\",\"MATLAB Classes\",\"JavaScript\",\"Simulink\",\"CDA Workflow\",\"CDA customer workflows\",\"ChatGPT\",\"Code Generation\",\"Code Reviews\",\"Design Review and RFAIN\",\"Design Patterns\",\"Feature Based Testing\",\"Go\",\"Git\",\"MATLAB Coder\",\"MUnit\",\"SOLID\",\"Test Frameworks\",\"Test Infrastructure\",\"Test Writing\",\"Tool Development\",\"Working with BaT\"]",
+      "Department_team": "Infrastructure Arch and Tools",
+      "Office Location": "[\"US-Natick\",\"IN-Bangalore\"]",
+      "Team site link": ""
+    },
+    "projects": [
+      {
+        "Title": "AST Visualizer Nodes To Source Code link",
+        "Project status": "Planning",
+        "EDG Engineer": "Jeffrey Zhang",
+        "Project sponsor (Manager)": "Rucha Sule",
+        "Project mentor": "Kosi Onyeka",
+        "EDG Manager": "Paul Wildman",
+        "Start date": "6/2/2025",
+        "Expected completion date": "9/26/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "IAT",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Private Cloud Foundations QE": {
+    "team_info": {
+      "Main contact": "Joe Blomer",
+      "Description of Team": "Our team provides critical support to qualify our private cloud offerings which are foundational to the SaaS north-star vision. Private Cloud Foundation provides the infrastructure to develop, deploy, and productize MATLAB Online and multiple other existing and future Online Products to the cloud for our customers to use with their own secure, private environment.\n\nWe will need help to develop new cutting-edge tooling and automation to qualify our products and provide support to downstream teams who are working to support their products in the private cloud.\n\nYou will learn about microservices, DevOps, CI/CD pipelines, Go, Kubernetes, containers, functional and non-functional testing, and more.",
+      "Main skills used by this team": "[\"DevOps\",\"Cloud\",\"Containers\",\"Golang\",\"Kubernetes\",\"Cloud Providers\",\"Distributed Systems\"]",
+      "With us, you may learn": "[\"Process Improvement\",\"Kubernetes\",\"Cloud-based applications\",\"Cloud Platform Qualification\",\"CI/CD\",\"Pipeline Design and Implementation\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": ""
+    },
+    "projects": [
+      {
+        "Title": "Enhance CI/CD pipeline for Authnz (authorization and authentication) microservice",
+        "Project status": "In Progress",
+        "EDG Engineer": "Adish Pathare",
+        "Project sponsor (Manager)": "Joe Blomer",
+        "Project mentor": "Gowtham Uma Maheswari Jaganathan",
+        "EDG Manager": "Paul Gjeltema",
+        "Start date": "5/27/2025",
+        "Expected completion date": "7/25/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "QE",
+        "Product Area": "OP"
+      }
+    ]
+  },
+  "Product Security Operations & Vulnerability Intelligence": {
+    "team_info": {
+      "Main contact": "Shallu Ranchan",
+      "Description of Team": "Our team is responsible for the product security operations for all our desktop, mobile, and online products. We work on Vulnerability Management, Static analysis, dynamic analysis, software composition analysis (3P vulnerabilities), MathWorks Bug Bounty program, Security research, tooling, analytics, performing penetration testing and security assessments of high-risk products and external researcher communication.",
+      "Main skills used by this team": "[\"Security\",\"Tool Development\",\"Containers\",\"Cloud\",\"DevOps\",\"Python\",\"Scripting Languages\",\"MATLAB\",\"JavaScript\"]",
+      "With us, you may learn": "[\"JavaScript\",\"Process Improvement\",\"Program & Project Management\",\"MATLAB\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/pages/viewpage.action?pageId=627473413"
+    },
+    "projects": [
+      {
+        "Title": "Comparative Evaluation of Wiz and Xray CVE Scanning",
+        "Project status": "In Progress",
+        "EDG Engineer": "Tanner Bradford",
+        "Project sponsor (Manager)": "Shallu Ranchan",
+        "Project mentor": "Laura Biggs",
+        "EDG Manager": "Vipresh Gangwal",
+        "Start date": "5/26/2025",
+        "Expected completion date": "7/18/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Code Deployment SDI/HMI/HDL Coder QE": {
+    "team_info": {
+      "Main contact": "Avinash Mangena",
+      "Description of Team": "Our team owns the testing and quality of:\n1. SDI (Simulation Data Inspector), which is used to visualize and compare different kinds of data.\n2. RAP (record and playback blocks) are sink and source blocks. Record block is used to record data to workspace and file, whereas playback block is used to load the input data for simulation.\n3. HDL code (VHDL, Verilog, and SystemVerilog) generation support for Simulink Models\n4. Enhancing the HDL infrastructure, model generation, readability, and performance issues",
+      "Main skills used by this team": "[\"MATLAB\",\"MATLAB Classes\",\"C++\",\"Java\",\"JavaScript\",\"Simulink\",\"funcunit\",\"quinit\"]",
+      "With us, you may learn": "[\"MATLAB\",\"MATLAB Classes\",\"Simulink\",\"JavaScript\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": ""
+    },
+    "projects": [
+      {
+        "Title": "Write a C++ unit test for HDL Coder using the latest Pirfect test infrastructure.",
+        "Project status": "In Progress",
+        "EDG Engineer": "Drishti Sharma",
+        "Project sponsor (Manager)": "Avinash Mangena",
+        "Project mentor": "Sandeep Sundur Benjamin",
+        "EDG Manager": "Neeharika Yayavaram",
+        "Start date": "5/27/2025",
+        "Expected completion date": "8/15/2025",
+        "Office Location (EDG Engineer)": "IN - Hyderabad",
+        "Department_proj": "QE",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Data Persistence": {
+    "team_info": {
+      "Main contact": "Marc Greenberg",
+      "Description of Team": "The Data Persistence Team develops key infrastructure used by development teams across the organization such as MATLAB Data Array (a new C++ API which can be used to represent all MATLAB datatypes), Settings (which is used by C++, MATLAB and Javascript developers to store and retrieve their configuration data), Protobuf/JSON serialization and MAT-Files.",
+      "Main skills used by this team": "[\"C++\",\"MATLAB\",\"JavaScript\"]",
+      "With us, you may learn": "[\"C++\",\"JavaScript\",\"MATLAB\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/ltc/matlab/lang/ClassSys/DataPersistence/SitePages/Home.aspx"
+    },
+    "projects": [
+      {
+        "Title": "C++ APIs for v7.3 MAT-Files",
+        "Project status": "Approved",
+        "EDG Engineer": "Srivatsav Gunisetty",
+        "Project sponsor (Manager)": "Marc Greenberg",
+        "Project mentor": "Sudeep Sureshan",
+        "EDG Manager": "Bill Greenfield",
+        "Start date": "5/26/2025",
+        "Expected completion date": "8/1/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      },
+      {
+        "Title": "Adding Struct Support To MT-File Objects",
+        "Project status": "Approved",
+        "EDG Engineer": "Serene Joe",
+        "Project sponsor (Manager)": "Marc Greenberg",
+        "Project mentor": "Anna Itkis",
+        "EDG Manager": "Ellie Stevens",
+        "Start date": "2/24/2025",
+        "Expected completion date": "6/27/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Simulink Real-Time": {
+    "team_info": {
+      "Main contact": "Jason Retik;Kivanc Bas;Marc Schafer",
+      "Description of Team": "The Simulink Real-Time QE team at MathWorks collaborates closely with the Development team to ensure the quality and reliability of the software. The Development team deploys Simulink models to real-time hardware, and develops high-performance instrumentation for handling big data on a customized, real-time Linux kernel.\n\nWe work in conjunction with the Development team to test and validate the functionality, performance, and compatibility of Simulink Real-Time and Simulink Desktop Real-Time. We maintain automated test suites, execute test cases, and analyze results to identify and report any issues or bugs. This collaborative effort ensures the stability, reliability, and performance of Simulink Real-Time, enabling efficient prototyping and simulation of real-time systems while handling large amounts of data.\n\nAdditionally, working with our team provides the opportunity to collaborate with cutting-edge hardware such as Speedgoat targets. If you have a passion for hardware or embedded systems, you'll find a perfect fit here. You'll have the chance to actively engage in exciting projects, leveraging these cool technologies and contributing to the development of real-time systems in various industries.\n",
+      "Main skills used by this team": "[\"C\",\"C++\",\"MATLAB\",\"Simulink\",\"Simulink Real-Time\"]",
+      "With us, you may learn": "[\"C\",\"C++\",\"MATLAB\",\"Simulink\",\"Simulink Real-Time\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/dev/cda/codegen/xpc/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Host-Target Connectivity Block",
+        "Project status": "Planning",
+        "EDG Engineer": "Enrico Cruvinel",
+        "Project sponsor (Manager)": "Gautham Ponnu",
+        "Project mentor": "Chris Zhang",
+        "EDG Manager": "Jason Souza",
+        "Start date": "5/19/2025",
+        "Expected completion date": "8/15/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Simulink Solvers": {
+    "team_info": {
+      "Main contact": "Fu Zhang",
+      "Description of Team": "Simulink solver team is responsible for solving Simulink models and advanced analysis such as Linearization, performance analysis of complex models. ",
+      "Main skills used by this team": "[\"C++, Simulink, MATLAB, Controls\"]",
+      "With us, you may learn": "[\"RFAIN, C++. software development process. Simulik Engine\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://sharepoint.mathworks.com/dev/cda/simulinkstateflow/solvers/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Row Major Support for Linear Blocks",
+        "Project status": "Approved",
+        "EDG Engineer": "Guy Berreby",
+        "Project sponsor (Manager)": "Fu Zhang",
+        "Project mentor": "Jimmy Clinton",
+        "EDG Manager": "Paul Gjeltema",
+        "Start date": "5/19/2025",
+        "Expected completion date": "7/18/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      },
+      {
+        "Title": "Improvement of Model to Equation",
+        "Project status": "Approved",
+        "EDG Engineer": "Guy Berreby",
+        "Project sponsor (Manager)": "Fu Zhang",
+        "Project mentor": "Fu Zhang",
+        "EDG Manager": "Paul Gjeltema",
+        "Start date": "10/28/2024",
+        "Expected completion date": "1/31/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Computational Finance": {
+    "team_info": {
+      "Main contact": "Chris Garvin",
+      "Description of Team": "Our team is responsible for the financial products suite of tools as well as database and spreadsheet connectivity.",
+      "Main skills used by this team": "[\"C++\",\"Java\",\"MATLAB\"]",
+      "With us, you may learn": "[\"C++\",\"MATLAB\",\"Java\",\"Process Improvement\",\"Database Toolbox\",\"Datafeed Toolbox\",\"Econometrics Toolbox\",\"Financial Instruments Toolbox\",\"Financial Toolbox\",\"Risk Management Toolbox\"]",
+      "Department_team": "Development (Engineering and QE)",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/ltc/compfin/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Portfolio Analytics App",
+        "Project status": "In Progress",
+        "EDG Engineer": "Aleks Dzodic",
+        "Project sponsor (Manager)": "Gabo Lopez-Calva",
+        "Project mentor": "Alejandra Pena-Ordieres",
+        "EDG Manager": "Nitya Jay",
+        "Start date": "5/19/2025",
+        "Expected completion date": "7/25/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      },
+      {
+        "Title": "Evaluate Database Toolbox Compatibility with PostgreSQL's pgvector, SQLite_vec, and duckdb's vss/faiss extensions",
+        "Project status": "Planning",
+        "EDG Engineer": "Uday Patel",
+        "Project sponsor (Manager)": "Chris Garvin",
+        "Project mentor": "Kevin Seekell",
+        "EDG Manager": "Bill Greenfield",
+        "Start date": "6/9/2025",
+        "Expected completion date": "8/15/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Computational Finance ": {
+    "team_info": {
+      "Main contact": "Chris Garvin",
+      "Description of Team": "Our team is responsible for the financial products suite of tools as well as database and spreadsheet connectivity.",
+      "Main skills used by this team": "[\"MATLAB\",\"C++\",\"Java\",\"MATLAB Classes\"]",
+      "With us, you may learn": "[\"MATLAB\",\"MATLAB Classes\",\"C++\",\"Java\",\"Process Improvement\",\"financial modeling\",\"climate risk modeling\",\"Database Toolbox\",\"Datafeed Toolbox\",\"Econometrics Toolbox\",\"Financial Toolbox\",\"Financial Instruments Toolbox\",\"Risk Management Toolbox\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/ltc/compfin/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Portfolio Analytics App",
+        "Project status": "In Progress",
+        "EDG Engineer": "Aleks Dzodic",
+        "Project sponsor (Manager)": "Gabo Lopez-Calva",
+        "Project mentor": "Alejandra Pena-Ordieres",
+        "EDG Manager": "Nitya Jay",
+        "Start date": "5/19/2025",
+        "Expected completion date": "7/25/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      },
+      {
+        "Title": "Evaluate Database Toolbox Compatibility with PostgreSQL's pgvector, SQLite_vec, and duckdb's vss/faiss extensions",
+        "Project status": "Planning",
+        "EDG Engineer": "Uday Patel",
+        "Project sponsor (Manager)": "Chris Garvin",
+        "Project mentor": "Kevin Seekell",
+        "EDG Manager": "Bill Greenfield",
+        "Start date": "6/9/2025",
+        "Expected completion date": "8/15/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Experiment Manager": {
+    "team_info": {
+      "Main contact": "Shahed Nejhum",
+      "Description of Team": "Our team develops the Experiment Manager app in MATLAB and supports experiment workflows for Deep Learning and Machine Learning.",
+      "Main skills used by this team": "[\"Cloud\",\"DevOps\",\"JavaScript\",\"MATLAB\",\"MATLAB Classes\"]",
+      "With us, you may learn": "[\"JavaScript\",\"MATLAB\",\"MATLAB Classes\",\"Deep Learning Toolbox\",\"Statistics and Machine Learning Toolbox\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/EXMG"
+    },
+    "projects": [
+      {
+        "Title": "Implement an 'Add From Workspace' option for Experiement Manager Hyperparameters",
+        "Project status": "In Progress",
+        "EDG Engineer": "Jack Meehan",
+        "Project sponsor (Manager)": "Shahed Nejhum",
+        "Project mentor": "Shahed Nejhum",
+        "EDG Manager": "Elizabeth Reese",
+        "Start date": "4/7/2025",
+        "Expected completion date": "5/23/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "MATLAB Object System": {
+    "team_info": {
+      "Main contact": "Jennifer Black",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"C++\",\"MATLAB Classes\",\"MATLAB\",\"RFAIN\"]",
+      "With us, you may learn": "[\"C++; MATLAB classes; MCOS C++ interface; RFAIN; software development lifecycle; MathWorks development tools\"]",
+      "Department_team": "Language of Tech. Computing",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/ltc/matlab/lang/ClassSys/mcos/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Add support for MATLAB class alias deprecation warnings",
+        "Project status": "In Progress",
+        "EDG Engineer": "Anthony Nool",
+        "Project sponsor (Manager)": "Jennifer Black",
+        "Project mentor": "Philip Miljanic",
+        "EDG Manager": "Anjana Raghupathi",
+        "Start date": "5/12/2025",
+        "Expected completion date": "7/18/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "Globalization": {
+    "team_info": {
+      "Main contact": "Damien O'Donovan;Rob Henson",
+      "Description of Team": "The Globalization department is responsible for translation of our software, documentation, training, and marketing materials for MATLAB and Simulink. We also ensure that our software is capable of working correctly with multilingual data. Half of our work is to create tools to enable the internationalization and localization of our software. The other part is ensuring that we have high quality translation. We work with Chinese, Japanese, Korean, French, Italian, German, and Spanish.\n\nEnglish is not the first language for many of our customers, and potential customers. We believe that localizing our content \u2013 documentation, software, online training content, marketing material, videos, etc. \u2013 will help our customers evaluate a product, complete a transaction such as downloading or purchasing, learn to use our products, or troubleshoot an issue.   ",
+      "Main skills used by this team": "[\"Python\",\"DevOps\",\"Tool Development\",\"Process Improvement\",\"AI Technologies\",\"ChatGPT\",\"LLMs\",\"text analytics\",\"Computer Aided Translation tools\",\"Web Services\"]",
+      "With us, you may learn": "[\"Python\",\"Computer Aided Translation tools\",\"ChatGPT\",\"Tool Development\",\"Web Services\"]",
+      "Department_team": "Globalization",
+      "Office Location": "[\"US-Natick\",\"IN-Hyderabad\"]",
+      "Team site link": "/sites/eps/globalisation/SitePages/Globalization_Department.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Constructing a Testing Pipeline for Prompts",
+        "Project status": "In Progress",
+        "EDG Engineer": "Anurag Ojha",
+        "Project sponsor (Manager)": "Rob Henson",
+        "Project mentor": "Myriam Bocquillon",
+        "EDG Manager": "Phani Krishna Pantula",
+        "Start date": "5/5/2025",
+        "Expected completion date": "5/30/2025",
+        "Office Location (EDG Engineer)": "IN - Hyderabad",
+        "Department_proj": "Engineering",
+        "Product Area": "OP"
+      }
+    ]
+  },
+  "Release Engineering": {
+    "team_info": {
+      "Main contact": "Jeffrey Lin",
+      "Description of Team": "Release Engineering provides development support services and resources to deliver MathWorks products on time and to provide predictability to our development process. The ongoing purpose of the Release Engineering team is to keep our build, test, and release process running smoothly. This involves managing our integration process, augmenting our build, test and release strategy to meet our product delivery and quality requirements, and developing tools and other resources to streamline our development process.",
+      "Main skills used by this team": "[\"Debugging, C++, MATLAB, Passion to support Development/Release of our products\"]",
+      "With us, you may learn": "[\"Software Development Lifecycle (SDLC), Change Management, Git, Continuous Integration (CI), Continuous Deployment (CD), MathWorks Infrastructure\"]",
+      "Department_team": "Infrastructure Arch and Tools",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/IAT/re/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Reduction in processing time of Keyword search",
+        "Project status": "In Progress",
+        "EDG Engineer": "Raj Sinha",
+        "Project sponsor (Manager)": "Manoj Ravindra",
+        "Project mentor": "Sainadh Muppavarapu",
+        "EDG Manager": "Ankit Mathur",
+        "Start date": "5/5/2025",
+        "Expected completion date": "7/26/2025",
+        "Office Location (EDG Engineer)": "IN - Hyderabad",
+        "Department_proj": "IAT",
+        "Product Area": ""
+      }
+    ]
+  },
+  "Sandbox Workflows": {
+    "team_info": {
+      "Main contact": "Pedro Proenca",
+      "Description of Team": "Sandbox Workflows, part of IAT, is an internal team supporting processes and tooling of common Development workflows in the areas of sandbox management (Sandbox Manager), code reviewing (Review Board), exploring and refactoring (Code Search, Sourcegraph, Doxygen) plus AI-assisted coding tools (Sourcegraph Cody). Additionally, we provide tooling for certain UX activities (UX Study Manager) and icon management (Icon ID Catalog, Icon Repository). Our aim is to increase developer productivity by improving the ease of use and reliability of our tools.  To do so, our web applications leverage state of the art and industry standard technologies and frameworks(Linux, Apache, nginx, MySQL/MariaDB, Node.js, TypeScript, React, Next.js, Electron, Solr, Golang), Docker, GenAI.\u201d",
+      "Main skills used by this team": "[\"JavaScript\",\"Databases\",\"Tool Development\"]",
+      "With us, you may learn": "[\"Java\",\"JavaScript\",\"Tools and Infrastructure\"]",
+      "Department_team": "Infrastructure Arch and Tools",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/IAT/devapps/Desktop%20Tools%20and%20Workflows/default.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Dockerizing Sandbox Manager Services",
+        "Project status": "Approved",
+        "EDG Engineer": "Darren Chen",
+        "Project sponsor (Manager)": "Pedro Proenca",
+        "Project mentor": "Barret Furton",
+        "EDG Manager": "Jason Jumper",
+        "Start date": "5/1/2025",
+        "Expected completion date": "8/1/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "IAT",
+        "Product Area": ""
+      }
+    ]
+  },
+  "GPU Coder": {
+    "team_info": {
+      "Main contact": "Ram Kokku;Chao Luo",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"C++\",\"C++, CUDA, Deep Learning,  Compiler\"]",
+      "With us, you may learn": "[\"C++\",\"C++, CUDA, GPUs, compiler\",\"JavaScript\",\"GPU Coder\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/dev/cda/codegen/gpucoder/_layouts/15/start.aspx#/SitePages/Home.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Develop TCP/IP server using C++",
+        "Project status": "In Progress",
+        "EDG Engineer": "Harsh Mahalwar",
+        "Project sponsor (Manager)": "Ramakrishna Mandalapu",
+        "Project mentor": "Ramakrishna Mandalapu",
+        "EDG Manager": "Pavan Adapa",
+        "Start date": "5/19/2025",
+        "Expected completion date": "9/19/2025",
+        "Office Location (EDG Engineer)": "IN - Hyderabad",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      },
+      {
+        "Title": "Develop TCP/IP server using C++",
+        "Project status": "In Progress",
+        "EDG Engineer": "Harsh Mahalwar",
+        "Project sponsor (Manager)": "Ramakrishna Mandalapu",
+        "Project mentor": "Ramakrishna Mandalapu",
+        "EDG Manager": "Pavan Adapa",
+        "Start date": "5/19/2025",
+        "Expected completion date": "9/19/2025",
+        "Office Location (EDG Engineer)": "IN - Hyderabad",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Statistics and Machine Learning QE": {
+    "team_info": {
+      "Main contact": "Ghada Saleh",
+      "Description of Team": "Our team is responsible for testing statistics functions, ML algorithms, Apps, ML Simulink blocks, deployment (codegen, gpu, coder), and DL interactions with 3P libraries like PyTorch and TensorFlow.",
+      "Main skills used by this team": "[\"MATLAB\",\"MATLAB Classes\",\"Test frameworks\",\"Containers\",\"Process Improvement\"]",
+      "With us, you may learn": "[\"MATLAB\",\"MATLAB Classes\"]",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/SMLT/SMLT+QE+Techanical+Debt+and+Enhancement+Project+Board"
+    },
+    "projects": [
+      {
+        "Title": "Add missing unit tests for ONNX operators.",
+        "Project status": "Planning",
+        "EDG Engineer": "Sourav Sinha",
+        "Project sponsor (Manager)": "Ghada Saleh",
+        "Project mentor": "Shruthi Sankepelly",
+        "EDG Manager": "Jason Souza",
+        "Start date": "4/7/2025",
+        "Expected completion date": "7/11/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "QE",
+        "Product Area": "LTC"
+      }
+    ]
+  },
+  "BaT Software": {
+    "team_info": {
+      "Main contact": "Mayank Advani",
+      "Description of Team": "The Build and Test (BaT) team is at the forefront of enabling our 3000-strong distributed development organization to seamlessly develop (build) and validate (test) their work. This proprietary CI system offers unparalleled features that surpass any off-the-shelf CI solution, including massively parallelized testing across thousands of hosts, in-depth analysis of build and test failures, automatic reruns of correctable failures, and the capability to silence and re-enable tests automatically, among many others.\nThe BaT team is composed of highly motivated and intelligent individuals who are dedicated to delivering the best CI experience to MathWorks developers. As part of BaT, you will collaborate closely with developers, buildmadmins, release engineers, and various infrastructure teams to gather requirements and deliver solutions that exceed our customers' expectations.\n\nWe are actively working on designing, architecting, and converging onto what our next SCM would look like, and developing infrastructure standards and tools to support this new exciting world. Our vision is to create a seamless and innovative SCM ecosystem that enhances efficiency, scalability, and collaboration across all platforms.",
+      "Main skills used by this team": "[\"Java, Spring Boot, Java EE, Git, Perforce, JavaScript (ReactJS, ExtJS, NodeJS), Go, MariaDB, Scripting\"]",
+      "With us, you may learn": "[\"Java, Spring Boot, Java EE, Git, Perforce, JavaScript (ReactJS, ExtJS, NodeJS), Go, MariaDB, Scripting\"]",
+      "Department_team": "Infrastructure Arch and Tools",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "/sites/IAT/batsw/sitepages/home.aspx"
+    },
+    "projects": [
+      {
+        "Title": "Include a new content type, FILE_COUNT, in the contents call to provide a more comprehensive contents data overview",
+        "Project status": "In Progress",
+        "EDG Engineer": "Saurabh Singh",
+        "Project sponsor (Manager)": "Ayush Singhal",
+        "Project mentor": "Sasidhar Pulimi",
+        "EDG Manager": "Abhishek Bhat",
+        "Start date": "3/24/2025",
+        "Expected completion date": "7/29/2025",
+        "Office Location (EDG Engineer)": "IN - Bangalore",
+        "Department_proj": "IAT",
+        "Product Area": ""
+      }
+    ]
+  },
+  "Simulink Copilot": {
+    "team_info": {
+      "Main contact": "Anirban Chatterjee",
+      "Description of Team": "We are building an AI assistant for Simulink, whose goal is to assist customers in their daily Model-Based Design workflows, by providing useful explanations and answers to user questions, creating models and subsystems from natural language and equations, and leverage our existing products to achieve much more!",
+      "Main skills used by this team": "[\"C++\",\"JavaScript\",\"MATLAB\",\"MATLAB Classes\"]",
+      "With us, you may learn": "[\"C++\",\"JavaScript\",\"MATLAB\",\"MATLAB Classes\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/SLCPT/Simulink+Copilot+Home"
+    },
+    "projects": [
+      {
+        "Title": "System Composer Model Construction Plugin",
+        "Project status": "Approved",
+        "EDG Engineer": "Derrick Liu",
+        "Project sponsor (Manager)": "Anirban Chatterjee",
+        "Project mentor": "Omkar Waghmare",
+        "EDG Manager": "Jon Fournier",
+        "Start date": "3/17/2025",
+        "Expected completion date": "5/16/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Platform Aware Code Generation": {
+    "team_info": {
+      "Main contact": "Xiaocang Lin;Biao Yu",
+      "Description of Team": "We seek to provide users the ability to model, verify, and deploy software to any platform.",
+      "Main skills used by this team": "[\"C++\",\"Matlab\",\"TLC\",\"Communication skills\",\"Algorithms\",\"Data structures\",\"Object-Oriented Design\"]",
+      "With us, you may learn": "[\"Process Improvement\",\"Automated testing in C++\",\"C++, RFAIN, Hardware, BaT, Development Workflows\",\"MCOS C++ Interface\",\"Presentation Skills\",\"Embedded Coder\",\"Simulink Coder\",\"Simulink\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/x/KNbSAg"
+    },
+    "projects": [
+      {
+        "Title": "Exploring Block/Port Tracing for CGIR-Based Data Transfer Diagnostics",
+        "Project status": "Approved",
+        "EDG Engineer": "Christian George",
+        "Project sponsor (Manager)": "Biao Yu",
+        "Project mentor": "Jimmy Wang",
+        "EDG Manager": "Jon Fournier",
+        "Start date": "4/14/2025",
+        "Expected completion date": "6/20/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Deep Learning Coder": {
+    "team_info": {
+      "Main contact": "Hariprasad Ravishankar;Ram Kokku",
+      "Description of Team": "DL Coder team is responsible for enabling deep learning deployment for various embedded platforms through MATLAB Coder, GPU Coder and Embedded Coder.  The teams development activities include \n1. compiler optimizations to make deep learning algorithms run faster in CPU & GPUs\n2. Developing optimized algorithms for CPUs & GPUs\n3. LLMs deployment to edge devices \n",
+      "Main skills used by this team": "[\"C++\",\"MATLAB\",\"Scripting Languages\"]",
+      "With us, you may learn": "[\"C++\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/DLDEPLOY/"
+    },
+    "projects": [
+      {
+        "Title": "Support dlnetwork/predict with numeric inputs",
+        "Project status": "In Progress",
+        "EDG Engineer": "Roman Silen",
+        "Project sponsor (Manager)": "Hariprasad Ravishankar",
+        "Project mentor": "Nathan Malimban",
+        "EDG Manager": "Dalton Ryan",
+        "Start date": "3/10/2025",
+        "Expected completion date": "5/30/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      },
+      {
+        "Title": "Support dlnetwork/predict with numeric inputs",
+        "Project status": "In Progress",
+        "EDG Engineer": "Roman Silen",
+        "Project sponsor (Manager)": "Hariprasad Ravishankar",
+        "Project mentor": "Nathan Malimban",
+        "EDG Manager": "Dalton Ryan",
+        "Start date": "3/10/2025",
+        "Expected completion date": "5/30/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "MATLAB Coder Language": {
+    "team_info": {
+      "Main contact": "Konstantinos Athanasiou",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"Compiler development, program analysis, type systems, C++\"]",
+      "With us, you may learn": "[\"C++, compiler design, programming language semantics, type systems & type inference\",\"MATLAB Coder\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://mathworks.atlassian.net/wiki/spaces/MLCODER/pages/181001044/EDG+Projects+in+MATLAB+Coder+Language+and+type+inference"
+    },
+    "projects": [
+      {
+        "Title": "MEX Dispatch for Class Entrypoint Specializations",
+        "Project status": "In Progress",
+        "EDG Engineer": "Sam Claflin",
+        "Project sponsor (Manager)": "Sumit Ghosh",
+        "Project mentor": "Matan Silver",
+        "EDG Manager": "Mike Farry",
+        "Start date": "3/10/2025",
+        "Expected completion date": "6/13/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "IAT Cloud Platform": {
+    "team_info": {
+      "Main contact": "Nagapadman Nagarajan",
+      "Description of Team": "",
+      "Main skills used by this team": "[\"Terraform\",\"GoLang\",\"Infrastructure as Code\",\"GitHub\",\"GitHub Actions\",\"AWS\",\"AWS EKS\",\"Networking\",\"Security\",\"Cloud\"]",
+      "With us, you may learn": "[\"RFAIN\",\"Program & Project Management\",\"Code reviews\",\"Monitoring\",\"Alerts Management\",\"Cost Management\"]",
+      "Department_team": "Infrastructure Arch and Tools",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": ""
+    },
+    "projects": [
+      {
+        "Title": "Add EKS version in EKS Clusters UI",
+        "Project status": "In Progress",
+        "EDG Engineer": "David Trannam",
+        "Project sponsor (Manager)": "Nagapadman Nagarajan",
+        "Project mentor": "Priyanka Seernam",
+        "EDG Manager": "Elizabeth Reese",
+        "Start date": "1/27/2025",
+        "Expected completion date": "5/23/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "IAT",
+        "Product Area": ""
+      }
+    ]
+  },
+  "Simulink Test": {
+    "team_info": {
+      "Main contact": "Gregg Smith;Mohan Feng;Eeshan Mitra",
+      "Description of Team": "\t\nOur group is responsible for developing a cutting edge and fast growing product for automating verification of Simulink models and code: Simulink Test.\n\nWe design, implement, and ship key features to support functional testing of Simulink and Stateflow models.  Our work includes designing new Simulink and Stateflow-derived language constructs, efficient methods of execution and new ways to visualize testing outcomes.\n\nWe are expanding our focus to deliver our toolchain on the cloud.",
+      "Main skills used by this team": "[\"C++\",\"JavaScript\",\"MATLAB\",\"MATLAB Classes\",\"Simulink\",\"Stateflow\",\"Cloud\"]",
+      "With us, you may learn": "[\"C++\",\"JavaScript\",\"MATLAB\",\"MATLAB Classes\",\"Simulink\",\"Stateflow\",\"Cloud\",\"Simulink Test\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://confluence.mathworks.com/display/SLT"
+    },
+    "projects": [
+      {
+        "Title": "Evolve Quality Center app registry in ui-service",
+        "Project status": "In Progress",
+        "EDG Engineer": "Govind Mepad",
+        "Project sponsor (Manager)": "Abel Babu",
+        "Project mentor": "Piyush Aggarwal",
+        "EDG Manager": "Pavan Kanago",
+        "Start date": "1/27/2025",
+        "Expected completion date": "7/31/2025",
+        "Office Location (EDG Engineer)": "IN - Bangalore",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Simulink Architecture": {
+    "team_info": {
+      "Main contact": "Jiteshri Ektare;Katy Robison;Jamieson Cobleigh;Lei Lei",
+      "Description of Team": "We develop state of art technology stack to enable scalability for Simulink product family such as Stateflow, Embedded Coder, DSP System Toolbox, etc. Additionally, we develop foundation frameworks to allow DA teams develop their features with highest quality.  \n",
+      "Main skills used by this team": "[\"C++\",\"Simulink\",\"Tool Development\",\"Test frameworks\",\"Process Improvement\",\"Program & Project Management\"]",
+      "With us, you may learn": "[\"C++\",\"MATLAB\",\"Simulink\"]",
+      "Department_team": "Control Design Automation",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": "https://mathworks.atlassian.net/wiki/spaces/SLARCH/overview"
+    },
+    "projects": [
+      {
+        "Title": "Convert SLCompBlock Properties with DynamicProperties API",
+        "Project status": "In Progress",
+        "EDG Engineer": "Elaine Chen",
+        "Project sponsor (Manager)": "Jamieson Cobleigh",
+        "Project mentor": "Xiao Chen",
+        "EDG Manager": "Kavitha Krishna",
+        "Start date": "1/6/2025",
+        "Expected completion date": "5/21/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "Engineering",
+        "Product Area": "CDA"
+      }
+    ]
+  },
+  "Simulink Architecture and Sbtools QE": {
+    "team_info": {
+      "Main contact": "Jenny Ren",
+      "Description of Team": "Our team support both Simulink Architecture team and Sbtools team. \n\nSimulink Architecture team works on core infrastructure in Simulink that can benefit many other CDA products. The team's vision is to offer scalable and unit testable architecture in Simulink. QE team works w/ developers closely throughout the whole development cycle, from design review to implementation and testing stage. Together, QE and development teams are making critical contributions toward company's goal of making \"Simulink as a Service\".\n\nSbtools team develops sandbox qualification tools that are widely used in CDA teams. QE team actively works on multiple projects to keep the tools in good condition so that the big user groups can do their job efficiently and effectively. ",
+      "Main skills used by this team": "[\"C++\",\"MATLAB\",\"Simulink\",\"Test frameworks\",\"Python\",\"Scripting Languages\",\"Tool Development\",\"Perl\",\"Componentization\",\"Design\",\"Refactoring\",\"Excellent debugging skills\"]",
+      "With us, you may learn": "",
+      "Department_team": "Quality Engineering",
+      "Office Location": "[\"US-Natick\"]",
+      "Team site link": ""
+    },
+    "projects": [
+      {
+        "Title": "C++ unit tests of SL Architecture core components",
+        "Project status": "In Progress",
+        "EDG Engineer": "Linyan Xiang",
+        "Project sponsor (Manager)": "Jenny Ren",
+        "Project mentor": "Weijun Huang",
+        "EDG Manager": "Drew Glaser",
+        "Start date": "12/16/2024",
+        "Expected completion date": "5/16/2025",
+        "Office Location (EDG Engineer)": "US - Natick",
+        "Department_proj": "QE",
+        "Product Area": "CDA"
+      }
+    ]
+  }
+}
