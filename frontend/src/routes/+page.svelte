@@ -13,7 +13,7 @@
 		loading = true;
 		error = '';
 		try {
-			const response = await fetch(`http://localhost:8000/search?query=${encodeURIComponent(query)}&k=20`);
+			const response = await fetch(`https://findworks-server.andyy.dev/search?query=${encodeURIComponent(query)}&k=20`);
 			if (!response.ok) throw new Error('Failed to fetch results');
 			results = await response.json();
             console.log(results);

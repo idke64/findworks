@@ -6,7 +6,7 @@ export const load: PageServerLoad = async ({ fetch, url }) => {
 		const query = url.searchParams.get('query') ?? '';
 
 		const response = await fetch(
-			`http://localhost:8000/search?query=${encodeURIComponent(query)}&k=20`
+			`https://findworks-server.andyy.dev/search?query=${encodeURIComponent(query)}&k=20`
 		);
 
 		if (!response.ok) throw error(response.status, `Failed to load teams: ${response.statusText}`);

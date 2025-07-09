@@ -64,7 +64,7 @@
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "css": [
-      "_app/immutable/assets/_layout.Dndj4pBW.css"
+      "_app/immutable/assets/_layout.DRp03fO5.css"
     ]
   },
   "src/routes/+page.server.ts": {

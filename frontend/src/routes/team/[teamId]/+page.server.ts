@@ -5,7 +5,7 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 	const { teamId } = params;
 
 	try {
-		const response = await fetch(`http://localhost:8000/team/${teamId}`);
+		const response = await fetch(`https://findworks-server.andyy.dev/team/${teamId}`);
 
 		if (!response.ok) {
 			throw error(response.status, `Failed to load team: ${response.statusText}`);
