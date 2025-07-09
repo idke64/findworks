@@ -82,3 +82,20 @@ class VectorSearchService:
             )
             for dist, idx in zip(distances[0], indices[0])
         ]
+
+    def get_team(self, team_id: str) -> Team | None:
+        """Get a specific team by its ID."""
+        if self._teams is None:
+            raise RuntimeError("VectorSearchService not ready (still loading).")
+        
+        # Convert string ID to UUID for comparison
+        from uuid import UUID
+        try:
+            target_id = UUID(team_id)
+        except ValueError:
+            return None
+            
+        for team in self._teams:
+            if team.id == target_id:
+                return team
+        return None
