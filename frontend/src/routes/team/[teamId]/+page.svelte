@@ -1,8 +1,6 @@
 <script lang="ts">
     let { data } = $props()
     let team = $derived(data.team);
-
-    console.log(team);
 </script>
 
 <div class="p-12 bg-gray-50 px-[8%] gap-6 flex flex-col">
