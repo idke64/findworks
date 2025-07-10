@@ -77,7 +77,7 @@ class VectorSearchService:
         return [
             SearchResult(
                 id=int(idx),
-                score=float(dist),
+                score=min(10.0,max(0.0, -0.114 *(10.24352 ** float(dist)) + 9.763)),
                 payload=self._teams[idx],   # type: ignore[index]  (validated above)
             )
             for dist, idx in zip(distances[0], indices[0])
